@@ -58,7 +58,6 @@ The notebook also visualizes the age distribution, customers by membership tier,
 ```bash
 git clone https://github.com/Fatemenamdar20/project-01-data-cleaning-fatemenamdarlo.git
 cd project-01-data-cleaning-fatemenamdarlo
-pip install -r requirements.txt
 jupyter notebook data_cleaning.ipynb
 ```
 

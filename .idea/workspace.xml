@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54e334aa-9912-4dfb-be62-1efb7b202082" name="Changes" comment="07">
+    <list default="true" id="54e334aa-9912-4dfb-be62-1efb7b202082" name="Changes" comment="08">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data_cleaning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_cleaning.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
@@ -51,7 +52,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/Desktop/git pro/project-01-data-cleaning&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/Desktop/git pro/project-01-data-cleaning_Fatemenamdarlo&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
@@ -126,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790874320026</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="08">
+      <option name="closed" value="true" />
+      <created>1790879575486</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1790879575486</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +155,7 @@
     <MESSAGE value="05" />
     <MESSAGE value="06" />
     <MESSAGE value="07" />
-    <option name="LAST_COMMIT_MESSAGE" value="07" />
+    <MESSAGE value="08" />
+    <option name="LAST_COMMIT_MESSAGE" value="08" />
   </component>
 </project>
